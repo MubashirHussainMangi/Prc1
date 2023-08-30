@@ -1,2 +1,2 @@
 # Prc1
-This is my first git repo
+Hi, This is my first git repo.
